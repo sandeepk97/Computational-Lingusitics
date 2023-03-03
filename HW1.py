@@ -204,8 +204,8 @@ def neural_likelihood(diagonal_of_probs):
 
 
 
-line = ['Radish is a cool cat.']
-print(count_trigrams(line))
+# line = ['Radish is a cool cat.']
+# print(count_trigrams(line))
 # # print( get_total_frequency(count_bigrams(line)))
 # # print( get_total_frequency(count_trigrams(line)))
 # tokenize_out = neural_tokenize(line)
