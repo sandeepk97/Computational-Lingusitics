@@ -155,7 +155,7 @@ def sentence_likelihood(
         if probability > 0:
             likelihood += math.log(probability)
         else:
-            likelihood += float('-inf')
+            likelihood += 0
             
     return likelihood
 
