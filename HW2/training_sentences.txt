@@ -1,0 +1,204 @@
+sentence	structure	direct_object	indirect_object
+I couldn't call myself his friend if I weren't willing to do the same.	DO	his friend	myself
+Just trying to save us all some paperwork.	DO	all some paperwork	us
+Master, may I ask you a question?	DO	a question	you
+We could build ourselves a sugar nest	DO	a sugar nest	ourselves
+I don't wanna give her a complex.	DO	a complex	her
+They always give you that little look.	DO	that little look	you
+Well, I'll show you what of it.	DO	what of it	you
+So she offered us the job and I just took it.	DO	the job	us
+So don't tell me that.	DO	that	me
+You Give me a copy.	DO	a copy	me
+You taught me that.	DO	that	me
+You owe me 500 pushups apiece.	DO	500 pushups	me
+Come on, Steve, buy her the radio, it's on sale.	DO	the radio	her
+I taught him that!	DO	that	him
+I'm gonna send you photos and fingerprints on 'em.	DO	photos and fingerprints	you
+And that was the point of the gun:  to tell William the incredible news  that his little electrical "Ss" have gone over a hill.	DO	the incredible news   that his little electrical " Ss " have gone over a hill	William
+He shows you his butterfly collection...  ...plus the killing jar.	DO	his butterfly collection ...   ... plus the killing jar	you
+Okay, show me a difference, people.	DO	a difference , people	me
+Andy will give you 2 movies and a painting	DO	2 movies and a painting	you
+J.R., I wanted to give you my answer on the OLM.	DO	my answer on the OLM	you
+Your Majesty, I bring you your brother's humble greetings...  ...and his hopes that you will enjoy the boar hunting here in Zenda.	DO	your brother 's humble greetings	you
+They owed me some cash,	DO	some cash	me
+No, I will not give you time off to go win the Open.	DO	time	you
+I said give her the $10.	DO	the $ 10	her
+They sang together and prayed together every Saturday night...  and that give 'em the strength to get through the week...  even though they didn't seem to be getting anywhere.	DO	the strength to get through the week	'em
+She gave me her phone number.	DO	her phone number	me
+So...you asked me a question a couple of days ago.	DO	a question	me
+Let me just buy you a beer.	DO	a beer	you
+I told you that.	DO	that	you
+I told you that.	DO	that	you
+No, I told you that.	DO	that	you
+Why would you tell me my own story?	DO	my own story	me
+I'd only tell you mine.	DO	mine	you
+You're giving me this car?	DO	this car	me
+I'll call you a cab.	DO	a cab	you
+This is Dr Crane signing off and wishing you good mental health.	DO	good mental health	you
+As a token of gratitude the government gave me this tusk.	DO	this tusk	me
+I buy alI the drinks.	DO	the drinks	alI
+Oh quick, show me the potty, Darling.	DO	the potty , Darling	me
+Okay, don't tell your mom, but I got you guys some presents.	DO	some presents	you guys
+But he got me this.	DO	this	me
+However, I don't need to remind you the pleasure of such an acquaintance.	DO	the pleasure of such an acquaintance	you
+Give us the women?	DO	the women	us
+Of course, I didn't tell him anything.	DO	anything	him
+Bike's running, he's telling you a story.	DO	a story	you
+I handed you the Gotti detail in New York?	DO	the Gotti detail in New York	you
+Then give me the Rod!	DO	the Rod	me
+his three-point shot gives the Roadrunners their first lead of the game.	DO	their first lead of the game	the Roadrunners
+Now get out there and give 'em a hand gettin' that firewood.	DO	a hand gettin '	'em
+I will give you a life for a life.	DO	a life	you
+If I'd come to your room, you would've given me the dresses free.	DO	the dresses	me
+Nina, I could tell you stories.	DO	stories	you
+I should fine you $25 for illegal equipment.	DO	$25 	you
+Just give me a minute to stretch.	DO	a minute to stretch	me
+Ronald gave me Kenneth's number  It's here  If you want to know ...	DO	Kenneth 's number  	me
+And let me tell you this, General:  These impossible people...   are in an impossible place  doing totally impossible work.	DO	this	you
+I can't get you the car back...  even if I wanted to!	DO	the car	you
+So tell me his name!	DO	his name	me
+I should have given them the day off.	DO	the day	them
+You always tell me that.	DO	that	me
+And you gave him more consideration than you're giving J.D.	DO	more than you 're giving J.D consideration	him
+Come on, give me a hand here, Sam.	DO	a hand	me
+I'm paying you an arm and a leg, aren't I?	DO	an arm and a leg	you
+Thank you for giving me the chance...  to meet the man who feeds the nation.	DO	the chance	me
+He said he was going to get me a moon rock.	DO	a moon rock	me
+I asked myself a few tough questions.	DO	a few tough questions	myself
+Hey, I got you the best drink in town, but I didn't know...  ...if you liked a little dollop of whipped cream or a big one...  ...so I got both and you can have each one... Hello, big dollop!	DO	the best drink in town	you
+Even a whisper caused me agony.	DO	agony	me
+But I gave you a precise time at which to page me.	DO	a precise time at which to page me	you
+Somebody give me an amen!	DO	an amen	me
+Saves us a lot of trouble!	DO	a lot of trouble	us
+Bring me the woman, Niles.	DO	the woman , Niles	me
+Why can't you just tell me his name?	DO	his name	me
+I'm gonna make me some Phat Farms.	DO	some Phat Farms	me
+Hey...  maybe he left you his kidney.	DO	his kidney	you
+- Well they didn't leave me any choice!	DO	any choice	me
+Molly Vernon gave the light a son d esgracado.	DO	a son d esgracado	the light
+Tell me what it is.	DO	what it is	me
+In Texas, it's customary to offer a man a drink...  when he's ridden 200 miles to see you.	DO	a drink	a man
+T ell him the truth.	DO	the truth	him
+I now pronounce you man and wife.	DO	man and wife	you
+Just giving you some brotherly advice.	DO	some brotherly advice	you
+Shall we give it one more time for the	DO	one more time	it
+Well, Goldie, uh, let me ask you this	DO	this	you
+Can you give me any idea what your report will be on those gloves?	DO	any idea what your report will be on those gloves	me
+Gives a man something to hang on to in the rough country.	DO	something to hang on to in the rough country	a man
+Did you give her a letter or a note?	DO	a letter or a note	her
+Fear and panic gave me a boost up over that ledge...  and I began to run, not walk, to the nearest exit.	DO	a boost	me
+You need a guy who will take it the same way,  who will give you a marriage with all the trimmings, home and kids.	DO	a marriage	you
+You buy yourself a bag and plug up your ears.	DO	a bag	yourself
+Can I get you some coffee?	DO	some coffee	you
+And forgive us our trespasses as we forgive those that trespass against us.	DO	our trespasses	us
+Yeah, and he paid me $1 00.	DO	$ 1 00	me
+Call to see if they can give us some help.	DO	some help	us
+But I can tell you one thing.	DO	one thing	you
+I make her my daughter.	DO	my daughter	her
+You gonna give anybody else a chance?	DO	a chance	anybody else
+But she did you no favour when she left you this car.	DO	no favour	you
+I'm gonna have to ask you a couple of questions, okay?	DO	a couple of questions	you
+Can I get you anything?	DO	anything	you
+Because I give you mine.	DO	mine	you
+You and I are both here because somebody gave us a break.	DO	a break	us
+Give me a cigarette, will you, McManus?	DO	a cigarette	me
+You got Brandon a hooker?	DO	a hooker	Brandon
+Hey, Snakeskin, give me a hand.	DO	a hand	me
+Don't give him the brandy.	DO	the brandy	him
+Now do me a favor, Captain Bligh.	DO	a favor	me
+Look, i was gonna... What,  were you gonna send me a postcard from florida?	DO	a postcard from florida	me
+Let me tell you something, Fico.	DO	something , Fico	you
+He's gonna expect me to ask him really intelligent questions.	DO	really intelligent questions	him
+I'm gonna fix myself a Tom ColIins.	DO	a Tom ColIins	myself
+Wish me luck.	DO	luck	me
+Well, tell you the flat truth, it*s just a sort of a whatchacallit, a...  Composite?	DO	the flat truth	you
+Give him something to share with me.	DO	something to share with me	him
+Oh, but it's okay to hand him a nine millimeter?	DO	a nine millimeter	him
+He charged me $70 for these bags.	DO	$70 	me
+Buy you a cocktail, Jacques?	DO	a cocktail Jacques	you
+Sum, I beg you, promise me two things	DO	two things	me
+I know, but we're gonna get you someone just as good.	DO	someone just as good	you
+Don't I owe you a lap dance?	DO	a lap dance	you
+Tell me something real about yourself.	DO	something real about yourself	me
+But the path of the mind, the path we're on,  ours is the path that has brought us these people:	DO	these people	us
+Do me a favor.	DO	a favor	me
+About this case, don't tell any people,  or they won't give you condolence money.	DO	condolence money	you
+But, Father, you gave me her name.	DO	her name	me
+I saved you a seat.	DO	a seat	you
+Give me back the Enterprise.	DO	the Enterprise	me
+And I'll tell you something.	DO	something	you
+Wait,  will you believe me if I tell you something?	DO	something	you
+Well, Nina gave me two tickets to the opera and I thought it might be fun if we went together.	DO	two tickets to the opera	me
+She bought me this shirt.	DO	this shirt	me
+Maybe she'll give us something to eat.	DO	something to eat	us
+Tell him this.	DO	this	him
+What gives you the right to wear Richmond on your chests...  and act like punks?	DO	the right to wear Richmond on your chests	you
+Doctor, could you give him something?	DO	something	him
+If he won't deal, show him some leg.	DO	some leg	him
+To telI you the truth,	DO	the truth	you
+His schedule doesn't allow for personal interviews,  but I'll take you to our computer lounge...  and you can e-mail him directly.	DO	you	to our computer lounge
+And all our yesterdays have lighted  fools the way to dusty death.	DO	the way	to dusty death
+Pay them allyourmind.	DO	allyourmind	them
+I'll give you five minutes.	DO	five minutes	you
+But you can call me anything you want if the price is right.	DO	anything you want	me
+Give me a hug before you go.	DO	a hug	me
+Give your granddad a hug.	DO	a hug	your granddad
+Get yourself a drink.	DO	a drink	yourself
+Give me your hand.	DO	your hand	me
+Gripping stuff...  the age of trees, how to give a plant a name,  the lesser-known diseases of grapevines...  and all this described by fellow botanists  quite seriously as "classics in the field."	DO	a name ,   the lesser - known diseases of grapevines	a plant
+Well, that just gives us the chance for a family dinner.	DO	the chance for a family dinner	us
+You just told me everything I need to know.	DO	everything I need to know	me
+You don't have to tell me that.	DO	that	me
+They still give prosecutors guns?	DO	guns	prosecutors
+As for cattle, those miserable, slab-sided fleabags...  Pour yourself a drink.	DO	a drink	yourself
+Grenade, give me your grenade!	DO	your grenade	me
+And our regulars would like to wish a warm welcome...  ...to all you virgins!	PO	a warm welcome	to all you virgins
+Put it on the floor...  and slide it to me.	PO	it	to me
+I can prove it to you.	PO	it	to you
+I've given my account to her.	PO	my account	to her
+Why didn't you say good-bye to me at the pool?	PO	good - bye	to me
+What you get is that we don't turn you in to the police	PO	you	to the police
+After he died...  ...the Oracle prophesied his return...  ...and that his coming would hail the destruction of the Matrix...  ...end the war...  ...bring freedom to our people.	PO	freedom	to our people
+I'll send a warning to parents before more children see Terrance and Phillip.	PO	a warning	to parents
+Steve's dad just gave it to him for his birthday.	PO	it	to him
+They were sending pounds of it back to the States, using military supply lines.	PO	pounds of it	to the States
+I'm just a humble peddler offering a cure to an ailing world.	PO	a cure	to an ailing world
+I only give pigs to early risers.	PO	pigs	to early risers
+My father gave it to me for my sixth birthday.	PO	it	to me
+Oh, I gave it away to some jerk	PO	it	to some jerk
+Are you gonna drive me to her house afterwards?	PO	me	to her house
+Should we send something over to the Sullivans?	PO	something	to the Sullivans
+I threw you out of that house...  'cause I refused sexual advances from you to me?	PO	sexual advances	to me
+Angie, he told me the Lagunas are on their way out,  and you might be able to introduce me to the people who are on their way in.	PO	me	to the people who are on their way in
+Don't pay attention to what those doctors tell you.	PO	attention	to what those doctors tell you
+I mean, instead of keeping it to yourself all this time.	PO	it	to yourself
+Seems he got drunk Friday night, decided to track down her mom and tried to drive a street-sweeper to Mexico.	PO	a street - sweeper	to Mexico
+Dody, you must take me to London to see the Enchanted Bird again.	PO	me	to London
+We've charged a summer's worth of drinks to him.	PO	a summer 's worth of drinks	to him
+Give it to me straight, Doc.	PO	it	to me
+All right, I say we push it out...  ...hope the current takes it to the next precinct.	PO	it	to the next precinct
+He claimed Veeder introduced him to her at the shelter	PO	him	to her
+Phil, I'll give a key to my neighbor.	PO	a key	to my neighbor
+Did you know that Alex says that he owes money to the Juarez cartel?	PO	money	to the Juarez cartel
+Let's give him to them.	PO	him	to them
+Pazuzu, prince of the evil spirits of the air, take me to Kokumo.	PO	me	to Kokumo
+Someone told you to do this to me?	PO	this	to me
+They used one of my simulations to kidnap her  and they are trying to sell her to the man that murdered her son.	PO	her	to the man that murdered her son
+I'll make a signal to M.	PO	a signal	to M
+She signed something to me from the window.	PO	something	to me
+Alright, drop your weapons-  pass them to me.	PO	them	to me
+I can transfer you to any stateside post you want.	PO	you	to any stateside post you want
+Yeah, well, you tell that to Freddie.	PO	that	to Freddie
+You should leave it to your eldest daughter.	PO	it	to your eldest daughter
+Give it to me.	PO	it	to me
+You're here because when Mr. Milo sent your file over to me...  ...you jumped immediately to the top 1 0 of my "most in need of guidance" list.	PO	your file	to me
+Sending you back to the...  the clinic in Vermont was his idea.	PO	you	to the
+And ladies,  how many of you would like the power to drive your man to distraction?	PO	your man	to distraction
+I'll give it to you.	PO	it	to you
+When he gets off the train, he'll pick up some gold and send it to me.	PO	it	to me
+Even otherwise, I'd give it to him	PO	it	to him
+If you wanna help me out, introduce me to a girl.	PO	me	to a girl
+She wrote it a few days before she passed away...  ...and asked me to hold onto it...  ...and give it to you when you graduated from high school.	PO	it	to you
+I'll give it to you.	PO	it	to you
+She's sending entertainment and information to millions of citizens.	PO	entertainment and information	to millions of citizens
+You turn the management over to them and keep 50% of the stock.	PO	the management	to them

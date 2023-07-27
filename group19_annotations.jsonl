@@ -1,0 +1,1249 @@
+[
+    {
+        "text": [
+            "A.23:   Well, I don't really watch too many T V shows other than, uh,\n",
+            "B.24:   Oh, really?\n"
+        ],
+        "html": "A.23:   Well, I don't really watch too many T V shows other than, uh,\nB.24:   Oh, really?\n",
+        "_input_hash": 107380755,
+        "_task_hash": -1221828506,
+        "_view_id": "blocks",
+        "user_input": "propensity of watching TV shows ",
+        "answer": "accept",
+        "_timestamp": 1676928568,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.26:   Oh, I love that show.\n",
+            "A.27:   Yeah, do you?  [Laughter].\n",
+            "B.28:   Yes, that is great.\n",
+            "A.29:   Yeah, it's fun.  And then there's a new one that started out\n"
+        ],
+        "html": "B.26:   Oh, I love that show.\nA.27:   Yeah, do you?  [Laughter].\nB.28:   Yes, that is great.\nA.29:   Yeah, it's fun.  And then there's a new one that started out\n",
+        "_input_hash": -900672630,
+        "_task_hash": -1947988846,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show - 1 ",
+        "answer": "accept",
+        "_timestamp": 1676928922,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.30:   Oh, I heard they just canceled that.\n",
+            "A.31:   Oh, really?\n",
+            "B.32:   I read in today's paper they just canceled that show.\n"
+        ],
+        "html": "B.30:   Oh, I heard they just canceled that.\nA.31:   Oh, really?\nB.32:   I read in today's paper they just canceled that show.\n",
+        "_input_hash": -2080759812,
+        "_task_hash": 1151091625,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show - 2 cancellation",
+        "answer": "accept",
+        "_timestamp": 1676929008,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.35:   But,\n",
+            "B.36:   Have you seen the show, it's, it's new this year, called HOME\n",
+            "A.37:   No, I haven't watched that.\n"
+        ],
+        "html": "A.35:   But,\nB.36:   Have you seen the show, it's, it's new this year, called HOME\nA.37:   No, I haven't watched that.\n",
+        "_input_hash": -1241265725,
+        "_task_hash": -543267724,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show HOME - watching",
+        "answer": "accept",
+        "_timestamp": 1676929174,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.38:   Oh, it's, it's really good.  It's, uh, I think it's on like\n",
+            "A.39:   Uh-huh.\n"
+        ],
+        "html": "B.38:   Oh, it's, it's really good.  It's, uh, I think it's on like\nA.39:   Uh-huh.\n",
+        "_input_hash": 1456235062,
+        "_task_hash": 561584120,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show HOME - opinion",
+        "answer": "accept",
+        "_timestamp": 1676929210,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.45:   Yeah.  Is that on, what chan-, what station?\n",
+            "B.46:   [Lipsmack] Uh, I don't even know, to tell you the truth\n"
+        ],
+        "html": "A.45:   Yeah.  Is that on, what chan-, what station?\nB.46:   [Lipsmack] Uh, I don't even know, to tell you the truth\n",
+        "_input_hash": -537220923,
+        "_task_hash": 1318888826,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show HOME - channel",
+        "answer": "accept",
+        "_timestamp": 1676929273,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.48:   Uh, I prefer OPRAH WINFREY --\n",
+            "A.49:   Oh, yeah.\n",
+            "B.50:   -- to DONAHUE [laughter].\n"
+        ],
+        "html": "B.48:   Uh, I prefer OPRAH WINFREY --\nA.49:   Oh, yeah.\nB.50:   -- to DONAHUE [laughter].\n",
+        "_input_hash": 1463027050,
+        "_task_hash": 396946958,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show OPRAH - preference",
+        "answer": "accept",
+        "_timestamp": 1676929347,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.58:   They're stupid [laughter].\n",
+            "A.59:   Yeah.\n",
+            "B.60:   So when I did watch them I was addicted to them every day.\n",
+            "A.61:   Uh-huh.\n",
+            "B.62:   But not anymore.\n",
+            "A.63:   That can happen.  So do you know of any other shows in the\n",
+            "B.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\n"
+        ],
+        "html": "B.58:   They're stupid [laughter].\nA.59:   Yeah.\nB.60:   So when I did watch them I was addicted to them every day.\nA.61:   Uh-huh.\nB.62:   But not anymore.\nA.63:   That can happen.  So do you know of any other shows in the\nB.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\n",
+        "_input_hash": 1586092416,
+        "_task_hash": -2125528247,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show soap operas ",
+        "answer": "accept",
+        "_timestamp": 1676929600,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.65:   Oh, that's always fun.\n",
+            "B.66:   Yes, I like that show.\n",
+            "A.67:   Yeah.\n"
+        ],
+        "html": "A.65:   Oh, that's always fun.\nB.66:   Yes, I like that show.\nA.67:   Yeah.\n",
+        "_input_hash": 1733832048,
+        "_task_hash": -1735814465,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show GOLDEN GIRLS - preference",
+        "answer": "accept",
+        "_timestamp": 1676929651,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.68:   And if I can stay up late enough, I like to catch SATURDAY\n",
+            "A.69:   Oh, uh-huh.\n"
+        ],
+        "html": "B.68:   And if I can stay up late enough, I like to catch SATURDAY\nA.69:   Oh, uh-huh.\n",
+        "_input_hash": 276929863,
+        "_task_hash": -1955268800,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show SATURDAY",
+        "answer": "accept",
+        "_timestamp": 1676929694,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.70:   And right now we're watching a Penn State football game\n",
+            "A.71:   Oh, yeah.\n",
+            "B.72:   So [laughter],\n",
+            "A.73:   Uh-huh.\n",
+            "B.74:   It's exciting, we're winning, so that's really exciting.\n"
+        ],
+        "html": "B.70:   And right now we're watching a Penn State football game\nA.71:   Oh, yeah.\nB.72:   So [laughter],\nA.73:   Uh-huh.\nB.74:   It's exciting, we're winning, so that's really exciting.\n",
+        "_input_hash": 912463756,
+        "_task_hash": 1242809544,
+        "_view_id": "blocks",
+        "user_input": "discussing Sports show - football game - Penn State",
+        "answer": "accept",
+        "_timestamp": 1676929820,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.75:   Yeah, well, I think, I also, course, like to catch the news\n",
+            "B.76:   Uh-huh.\n"
+        ],
+        "html": "A.75:   Yeah, well, I think, I also, course, like to catch the news\nB.76:   Uh-huh.\n",
+        "_input_hash": 2072389679,
+        "_task_hash": -1304516390,
+        "_view_id": "blocks",
+        "user_input": "discussing News shows - preference",
+        "answer": "accept",
+        "_timestamp": 1676929892,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.77:   -- but, uh, it's a little tough because that's when I'm\n",
+            "B.78:   [Laughter].\n"
+        ],
+        "html": "A.77:   -- but, uh, it's a little tough because that's when I'm\nB.78:   [Laughter].\n",
+        "_input_hash": -646752684,
+        "_task_hash": 506977083,
+        "_view_id": "blocks",
+        "user_input": "discussing News shows - schedule conflict",
+        "answer": "accept",
+        "_timestamp": 1676930126,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.80:   Yes, we watch C N N in morning while we're getting ready --\n",
+            "A.81:   Uh-huh.\n"
+        ],
+        "html": "B.80:   Yes, we watch C N N in morning while we're getting ready --\nA.81:   Uh-huh.\n",
+        "_input_hash": -1393160599,
+        "_task_hash": 688529854,
+        "_view_id": "blocks",
+        "user_input": "discussing News show CNN - availability in schedule - multitasking",
+        "answer": "accept",
+        "_timestamp": 1676930428,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.84:   Lately, I haven't been catching it because of my work\n",
+            "A.85:   Uh-huh.\n"
+        ],
+        "html": "B.84:   Lately, I haven't been catching it because of my work\nA.85:   Uh-huh.\n",
+        "_input_hash": -651882000,
+        "_task_hash": -1724712176,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show OPRAH - schedule conflict ",
+        "answer": "accept",
+        "_timestamp": 1676930567,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.90:   Well, today on C N N they were talking about something like\n",
+            "A.91:   Um, yeah.\n",
+            "B.92:   It was really interesting.\n",
+            "A.93:   It is interesting.  So,\n"
+        ],
+        "html": "B.90:   Well, today on C N N they were talking about something like\nA.91:   Um, yeah.\nB.92:   It was really interesting.\nA.93:   It is interesting.  So,\n",
+        "_input_hash": -546201942,
+        "_task_hash": -994414511,
+        "_view_id": "blocks",
+        "user_input": "discussing News show CNN - interesting segment ",
+        "answer": "accept",
+        "_timestamp": 1676931148,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.86:   Uh, {pause} I can't remember the last time I saw it.  It's\n",
+            "@A.87:   Yeah, [lipsmack] well, I don't know if we've talked our\n",
+            "B.88:   [Laughter] I don't know, sometimes they come on and, and say.\n",
+            "A.89:   Oh, that's right.\n"
+        ],
+        "html": "B.86:   Uh, {pause} I can't remember the last time I saw it.  It's\n@A.87:   Yeah, [lipsmack] well, I don't know if we've talked our\nB.88:   [Laughter] I don't know, sometimes they come on and, and say.\nA.89:   Oh, that's right.\n",
+        "_input_hash": 1906156954,
+        "_task_hash": 1352601931,
+        "_view_id": "blocks",
+        "user_input": "discussing steering towards conclusion",
+        "answer": "accept",
+        "_timestamp": 1676931535,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.94:   Do you work for Texas Instruments?\n",
+            "A.95:   No, no, just, uh, doing this as a fund-raiser for our church.\n",
+            "B.96:   Oh, that's nice.\n",
+            "A.97:   Yeah, so it kind of makes it easy, you know, to do a little\n"
+        ],
+        "html": "B.94:   Do you work for Texas Instruments?\nA.95:   No, no, just, uh, doing this as a fund-raiser for our church.\nB.96:   Oh, that's nice.\nA.97:   Yeah, so it kind of makes it easy, you know, to do a little\n",
+        "_input_hash": -1423526813,
+        "_task_hash": -566178517,
+        "_view_id": "blocks",
+        "user_input": "discussing personal life - work",
+        "answer": "accept",
+        "_timestamp": 1676931537,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.1:   Hello?\n",
+            "B.2:   Hi.\n",
+            "A.3:   Hi, my name is Leslie.\n",
+            "B.4:   Hi, I'm Jennifer.\n",
+            "A.5:   And where are you from?\n",
+            "B.6:   Pennsylvania.\n",
+            "A.7:   Oh, nice, I'm from Dallas, Texas.\n",
+            "B.8:   Oh, really?\n",
+            "A.9:   Yeah, so,\n",
+            "B.10:   Oh, that's neat.\n"
+        ],
+        "html": "A.1:   Hello?\nB.2:   Hi.\nA.3:   Hi, my name is Leslie.\nB.4:   Hi, I'm Jennifer.\nA.5:   And where are you from?\nB.6:   Pennsylvania.\nA.7:   Oh, nice, I'm from Dallas, Texas.\nB.8:   Oh, really?\nA.9:   Yeah, so,\nB.10:   Oh, that's neat.\n",
+        "_input_hash": -1515720976,
+        "_task_hash": -1635962112,
+        "_view_id": "blocks",
+        "user_input": "discussing introduction - greetings",
+        "answer": "accept",
+        "_timestamp": 1676931623,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.11:   Well, did you understand what this was for, you know, what it\n",
+            "B.12:   Uh, television shows?\n",
+            "A.13:   Yeah [laughter].\n",
+            "B.14:   Sure, that sounds good.\n",
+            "A.15:   Okay [noise].  I, I don't watch too many, but we can try it.\n",
+            "B.16:   Okay.\n"
+        ],
+        "html": "A.11:   Well, did you understand what this was for, you know, what it\nB.12:   Uh, television shows?\nA.13:   Yeah [laughter].\nB.14:   Sure, that sounds good.\nA.15:   Okay [noise].  I, I don't watch too many, but we can try it.\nB.16:   Okay.\n",
+        "_input_hash": -2071269985,
+        "_task_hash": 725116544,
+        "_view_id": "blocks",
+        "user_input": "discussing task topic - TV shows",
+        "answer": "accept",
+        "_timestamp": 1676931678,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.17:   Are you ready to start?\n",
+            "B.18:   Sure am.\n",
+            "A.19:   Okay, just a minute [beep].\n",
+            "B.20:   Okay, I guess we're recording now.\n",
+            "A.21:  Yeah, okay.\n"
+        ],
+        "html": "A.17:   Are you ready to start?\nB.18:   Sure am.\nA.19:   Okay, just a minute [beep].\nB.20:   Okay, I guess we're recording now.\nA.21:  Yeah, okay.\n",
+        "_input_hash": -777766905,
+        "_task_hash": 2085014979,
+        "_view_id": "blocks",
+        "user_input": "discussing inquiring start",
+        "answer": "accept",
+        "_timestamp": 1676931838,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.22:   What are your favorite television shows?\n",
+            "A.23:   Well, I don't really watch too many T V shows other than, uh,\n",
+            "B.24:   Oh, really?\n",
+            "A.25:   And, uh, so if, if there's no one else around, you know, it's\n",
+            "B.26:   Oh, I love that show.\n",
+            "A.27:   Yeah, do you?  [Laughter].\n",
+            "B.28:   Yes, that is great.\n",
+            "A.29:   Yeah, it's fun.  And then there's a new one that started out\n",
+            "B.30:   Oh, I heard they just canceled that.\n",
+            "A.31:   Oh, really?\n",
+            "B.32:   I read in today's paper they just canceled that show.\n",
+            "A.33:   It is a real different one.  It's, uh, it's, it's different.\n",
+            "B.34:   [Laughter].\n"
+        ],
+        "html": "B.22:   What are your favorite television shows?\nA.23:   Well, I don't really watch too many T V shows other than, uh,\nB.24:   Oh, really?\nA.25:   And, uh, so if, if there's no one else around, you know, it's\nB.26:   Oh, I love that show.\nA.27:   Yeah, do you?  [Laughter].\nB.28:   Yes, that is great.\nA.29:   Yeah, it's fun.  And then there's a new one that started out\nB.30:   Oh, I heard they just canceled that.\nA.31:   Oh, really?\nB.32:   I read in today's paper they just canceled that show.\nA.33:   It is a real different one.  It's, uh, it's, it's different.\nB.34:   [Laughter].\n",
+        "_input_hash": 1781137554,
+        "_task_hash": 108243826,
+        "_view_id": "blocks",
+        "user_input": "discussing TV shows 1 and 2 - preference",
+        "answer": "accept",
+        "_timestamp": 1676932410,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.35:   But,\n",
+            "B.36:   Have you seen the show, it's, it's new this year, called HOME\n",
+            "A.37:   No, I haven't watched that.\n",
+            "B.38:   Oh, it's, it's really good.  It's, uh, I think it's on like\n",
+            "A.39:   Uh-huh.\n",
+            "B.40:   -- and it's set in post World War Two times and it's about how\n",
+            "A.41:   Oh, yeah.\n",
+            "B.42:   It's kind of like a s-, a nighttime soap opera type thing.\n",
+            "A.43:   Sounds neat.\n",
+            "B.44:   It is, it's a good, it's really well written.\n",
+            "A.45:   Yeah.  Is that on, what chan-, what station?\n",
+            "B.46:   [Lipsmack] Uh, I don't even know, to tell you the truth\n"
+        ],
+        "html": "A.35:   But,\nB.36:   Have you seen the show, it's, it's new this year, called HOME\nA.37:   No, I haven't watched that.\nB.38:   Oh, it's, it's really good.  It's, uh, I think it's on like\nA.39:   Uh-huh.\nB.40:   -- and it's set in post World War Two times and it's about how\nA.41:   Oh, yeah.\nB.42:   It's kind of like a s-, a nighttime soap opera type thing.\nA.43:   Sounds neat.\nB.44:   It is, it's a good, it's really well written.\nA.45:   Yeah.  Is that on, what chan-, what station?\nB.46:   [Lipsmack] Uh, I don't even know, to tell you the truth\n",
+        "_input_hash": -504098740,
+        "_task_hash": -1001493830,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show HOME ",
+        "answer": "accept",
+        "_timestamp": 1676932469,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.47:   Oh, okay.  What other shows do you like?\n",
+            "B.48:   Uh, I prefer OPRAH WINFREY --\n",
+            "A.49:   Oh, yeah.\n",
+            "B.50:   -- to DONAHUE [laughter].\n",
+            "A.51:   Well, she comes on later and I usually have kids around so I\n",
+            "B.52:   Oh.\n",
+            "A.53:   -- watching that one is the only problem I have with it, I\n",
+            "B.54:   I did watch soap operas, but I work full-time now and can't\n",
+            "A.55:   Yeah [laughter].\n"
+        ],
+        "html": "A.47:   Oh, okay.  What other shows do you like?\nB.48:   Uh, I prefer OPRAH WINFREY --\nA.49:   Oh, yeah.\nB.50:   -- to DONAHUE [laughter].\nA.51:   Well, she comes on later and I usually have kids around so I\nB.52:   Oh.\nA.53:   -- watching that one is the only problem I have with it, I\nB.54:   I did watch soap operas, but I work full-time now and can't\nA.55:   Yeah [laughter].\n",
+        "_input_hash": -282574854,
+        "_task_hash": -96753469,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show OPRAH",
+        "answer": "accept",
+        "_timestamp": 1676932521,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.56:   Except when I'm home sick, and now when I watch them, I think,\n",
+            "A.57:   That's right [laughter].\n",
+            "B.58:   They're stupid [laughter].\n",
+            "A.59:   Yeah.\n"
+        ],
+        "html": "B.56:   Except when I'm home sick, and now when I watch them, I think,\nA.57:   That's right [laughter].\nB.58:   They're stupid [laughter].\nA.59:   Yeah.\n",
+        "_input_hash": 1407556261,
+        "_task_hash": -1481100984,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show soap operas",
+        "answer": "accept",
+        "_timestamp": 1676932604,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.60:   So when I did watch them I was addicted to them every day.\n",
+            "A.61:   Uh-huh.\n",
+            "B.62:   But not anymore.\n"
+        ],
+        "html": "B.60:   So when I did watch them I was addicted to them every day.\nA.61:   Uh-huh.\nB.62:   But not anymore.\n",
+        "_input_hash": 1453267337,
+        "_task_hash": -391593348,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show soap operas - addiction",
+        "answer": "accept",
+        "_timestamp": 1676932634,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.63:   That can happen.  So do you know of any other shows in the\n",
+            "B.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\n",
+            "A.65:   Oh, that's always fun.\n",
+            "B.66:   Yes, I like that show.\n",
+            "A.67:   Yeah.\n"
+        ],
+        "html": "A.63:   That can happen.  So do you know of any other shows in the\nB.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\nA.65:   Oh, that's always fun.\nB.66:   Yes, I like that show.\nA.67:   Yeah.\n",
+        "_input_hash": -996924467,
+        "_task_hash": -97298281,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show GOLDEN GIRLS",
+        "answer": "accept",
+        "_timestamp": 1676932657,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.68:   And if I can stay up late enough, I like to catch SATURDAY\n",
+            "A.69:   Oh, uh-huh.\n"
+        ],
+        "html": "B.68:   And if I can stay up late enough, I like to catch SATURDAY\nA.69:   Oh, uh-huh.\n",
+        "_input_hash": 276929863,
+        "_task_hash": -1955268800,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show SATURDAY",
+        "answer": "accept",
+        "_timestamp": 1676932677,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.75:   Yeah, well, I think, I also, course, like to catch the news\n",
+            "B.76:   Uh-huh.\n",
+            "A.77:   -- but, uh, it's a little tough because that's when I'm\n",
+            "B.78:   [Laughter].\n",
+            "A.79:   So, usually I don't get a whole lot of news watching in.\n",
+            "B.80:   Yes, we watch C N N in morning while we're getting ready --\n",
+            "A.81:   Uh-huh.\n",
+            "B.82:   -- for the day and eating breakfast.  We'll catch our news\n"
+        ],
+        "html": "A.75:   Yeah, well, I think, I also, course, like to catch the news\nB.76:   Uh-huh.\nA.77:   -- but, uh, it's a little tough because that's when I'm\nB.78:   [Laughter].\nA.79:   So, usually I don't get a whole lot of news watching in.\nB.80:   Yes, we watch C N N in morning while we're getting ready --\nA.81:   Uh-huh.\nB.82:   -- for the day and eating breakfast.  We'll catch our news\n",
+        "_input_hash": 1135894906,
+        "_task_hash": -473947679,
+        "_view_id": "blocks",
+        "user_input": "discussing News show ",
+        "answer": "accept",
+        "_timestamp": 1676932752,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.83:   Yeah, yeah.  So what have you seen interesting on OPRAH\n",
+            "B.84:   Lately, I haven't been catching it because of my work\n",
+            "A.85:   Uh-huh.\n",
+            "B.86:   Uh, {pause} I can't remember the last time I saw it.  It's\n"
+        ],
+        "html": "A.83:   Yeah, yeah.  So what have you seen interesting on OPRAH\nB.84:   Lately, I haven't been catching it because of my work\nA.85:   Uh-huh.\nB.86:   Uh, {pause} I can't remember the last time I saw it.  It's\n",
+        "_input_hash": -1514589723,
+        "_task_hash": -744649323,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show OPRAH - schedule conflict",
+        "answer": "accept",
+        "_timestamp": 1676932811,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "@A.87:   Yeah, [lipsmack] well, I don't know if we've talked our\n",
+            "B.88:   [Laughter] I don't know, sometimes they come on and, and say.\n",
+            "A.89:   Oh, that's right.\n"
+        ],
+        "html": "@A.87:   Yeah, [lipsmack] well, I don't know if we've talked our\nB.88:   [Laughter] I don't know, sometimes they come on and, and say.\nA.89:   Oh, that's right.\n",
+        "_input_hash": -928949729,
+        "_task_hash": -803460674,
+        "_view_id": "blocks",
+        "user_input": "discussing steering towards conclusion",
+        "answer": "accept",
+        "_timestamp": 1676932842,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.11:   Well, did you understand what this was for, you know, what it\n",
+            "B.12:   Uh, television shows?\n",
+            "A.13:   Yeah [laughter].\n",
+            "B.14:   Sure, that sounds good.\n",
+            "A.15:   Okay [noise].  I, I don't watch too many, but we can try it.\n",
+            "B.16:   Okay.\n",
+            "A.17:   Are you ready to start?\n",
+            "B.18:   Sure am.\n",
+            "A.19:   Okay, just a minute [beep].\n",
+            "B.20:   Okay, I guess we're recording now.\n",
+            "A.21:  Yeah, okay.\n",
+            "B.22:   What are your favorite television shows?\n",
+            "A.23:   Well, I don't really watch too many T V shows other than, uh,\n",
+            "B.24:   Oh, really?\n",
+            "A.25:   And, uh, so if, if there's no one else around, you know, it's\n",
+            "B.26:   Oh, I love that show.\n",
+            "A.27:   Yeah, do you?  [Laughter].\n",
+            "B.28:   Yes, that is great.\n",
+            "A.29:   Yeah, it's fun.  And then there's a new one that started out\n",
+            "B.30:   Oh, I heard they just canceled that.\n",
+            "A.31:   Oh, really?\n",
+            "B.32:   I read in today's paper they just canceled that show.\n",
+            "A.33:   It is a real different one.  It's, uh, it's, it's different.\n",
+            "B.34:   [Laughter].\n"
+        ],
+        "html": "A.11:   Well, did you understand what this was for, you know, what it\nB.12:   Uh, television shows?\nA.13:   Yeah [laughter].\nB.14:   Sure, that sounds good.\nA.15:   Okay [noise].  I, I don't watch too many, but we can try it.\nB.16:   Okay.\nA.17:   Are you ready to start?\nB.18:   Sure am.\nA.19:   Okay, just a minute [beep].\nB.20:   Okay, I guess we're recording now.\nA.21:  Yeah, okay.\nB.22:   What are your favorite television shows?\nA.23:   Well, I don't really watch too many T V shows other than, uh,\nB.24:   Oh, really?\nA.25:   And, uh, so if, if there's no one else around, you know, it's\nB.26:   Oh, I love that show.\nA.27:   Yeah, do you?  [Laughter].\nB.28:   Yes, that is great.\nA.29:   Yeah, it's fun.  And then there's a new one that started out\nB.30:   Oh, I heard they just canceled that.\nA.31:   Oh, really?\nB.32:   I read in today's paper they just canceled that show.\nA.33:   It is a real different one.  It's, uh, it's, it's different.\nB.34:   [Laughter].\n",
+        "_input_hash": 1070209695,
+        "_task_hash": 772568220,
+        "_view_id": "blocks",
+        "user_input": "discussing task, TV shows 1 and 2",
+        "answer": "accept",
+        "_timestamp": 1676933152,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.47:   Oh, okay.  What other shows do you like?\n",
+            "B.48:   Uh, I prefer OPRAH WINFREY --\n",
+            "A.49:   Oh, yeah.\n",
+            "B.50:   -- to DONAHUE [laughter].\n",
+            "A.51:   Well, she comes on later and I usually have kids around so I\n",
+            "B.52:   Oh.\n",
+            "A.53:   -- watching that one is the only problem I have with it, I\n"
+        ],
+        "html": "A.47:   Oh, okay.  What other shows do you like?\nB.48:   Uh, I prefer OPRAH WINFREY --\nA.49:   Oh, yeah.\nB.50:   -- to DONAHUE [laughter].\nA.51:   Well, she comes on later and I usually have kids around so I\nB.52:   Oh.\nA.53:   -- watching that one is the only problem I have with it, I\n",
+        "_input_hash": -855099257,
+        "_task_hash": -598088218,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show OPRAH",
+        "answer": "accept",
+        "_timestamp": 1676933166,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.54:   I did watch soap operas, but I work full-time now and can't\n",
+            "A.55:   Yeah [laughter].\n",
+            "B.56:   Except when I'm home sick, and now when I watch them, I think,\n",
+            "A.57:   That's right [laughter].\n"
+        ],
+        "html": "B.54:   I did watch soap operas, but I work full-time now and can't\nA.55:   Yeah [laughter].\nB.56:   Except when I'm home sick, and now when I watch them, I think,\nA.57:   That's right [laughter].\n",
+        "_input_hash": 488430888,
+        "_task_hash": -393792082,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show soap operas",
+        "answer": "accept",
+        "_timestamp": 1676933183,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.58:   They're stupid [laughter].\n",
+            "A.59:   Yeah.\n"
+        ],
+        "html": "B.58:   They're stupid [laughter].\nA.59:   Yeah.\n",
+        "_input_hash": -1160019170,
+        "_task_hash": -25971745,
+        "_view_id": "blocks",
+        "user_input": "discussing TV shows soap operas - review",
+        "answer": "accept",
+        "_timestamp": 1676933246,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.60:   So when I did watch them I was addicted to them every day.\n",
+            "A.61:   Uh-huh.\n",
+            "B.62:   But not anymore.\n",
+            "A.63:   That can happen.  So do you know of any other shows in the\n"
+        ],
+        "html": "B.60:   So when I did watch them I was addicted to them every day.\nA.61:   Uh-huh.\nB.62:   But not anymore.\nA.63:   That can happen.  So do you know of any other shows in the\n",
+        "_input_hash": -1084021436,
+        "_task_hash": -1394933181,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show soap operas - addiction",
+        "answer": "accept",
+        "_timestamp": 1676933270,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\n",
+            "A.65:   Oh, that's always fun.\n",
+            "B.66:   Yes, I like that show.\n",
+            "A.67:   Yeah.\n"
+        ],
+        "html": "B.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\nA.65:   Oh, that's always fun.\nB.66:   Yes, I like that show.\nA.67:   Yeah.\n",
+        "_input_hash": -888878616,
+        "_task_hash": -322217891,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show GOLDEN GIRLS",
+        "answer": "accept",
+        "_timestamp": 1676933285,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.70:   And right now we're watching a Penn State football game\n",
+            "A.71:   Oh, yeah.\n",
+            "B.72:   So [laughter],\n",
+            "A.73:   Uh-huh.\n",
+            "B.74:   It's exciting, we're winning, so that's really exciting.\n"
+        ],
+        "html": "B.70:   And right now we're watching a Penn State football game\nA.71:   Oh, yeah.\nB.72:   So [laughter],\nA.73:   Uh-huh.\nB.74:   It's exciting, we're winning, so that's really exciting.\n",
+        "_input_hash": 912463756,
+        "_task_hash": 1242809544,
+        "_view_id": "blocks",
+        "user_input": "discussing Sports show - football game - Penn State",
+        "answer": "accept",
+        "_timestamp": 1676933320,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.90:   Well, today on C N N they were talking about something like\n",
+            "A.91:   Um, yeah.\n",
+            "B.92:   It was really interesting.\n",
+            "A.93:   It is interesting.  So,\n"
+        ],
+        "html": "B.90:   Well, today on C N N they were talking about something like\nA.91:   Um, yeah.\nB.92:   It was really interesting.\nA.93:   It is interesting.  So,\n",
+        "_input_hash": -546201942,
+        "_task_hash": -994414511,
+        "_view_id": "blocks",
+        "user_input": "discussing News show - CNN",
+        "answer": "accept",
+        "_timestamp": 1676933338,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.94:   Do you work for Texas Instruments?\n",
+            "A.95:   No, no, just, uh, doing this as a fund-raiser for our church.\n",
+            "B.96:   Oh, that's nice.\n",
+            "A.97:   Yeah, so it kind of makes it easy, you know, to do a little\n"
+        ],
+        "html": "B.94:   Do you work for Texas Instruments?\nA.95:   No, no, just, uh, doing this as a fund-raiser for our church.\nB.96:   Oh, that's nice.\nA.97:   Yeah, so it kind of makes it easy, you know, to do a little\n",
+        "_input_hash": -1423526813,
+        "_task_hash": -566178517,
+        "_view_id": "blocks",
+        "user_input": "discussing personal life - work",
+        "answer": "accept",
+        "_timestamp": 1676933358,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.3:   Hi, my name is Leslie.\n",
+            "B.4:   Hi, I'm Jennifer.\n"
+        ],
+        "html": "A.3:   Hi, my name is Leslie.\nB.4:   Hi, I'm Jennifer.\n",
+        "_input_hash": -1994300481,
+        "_task_hash": 374822486,
+        "_view_id": "blocks",
+        "user_input": "discussing introduction - names",
+        "answer": "accept",
+        "_timestamp": 1676933387,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.5:   And where are you from?\n",
+            "B.6:   Pennsylvania.\n",
+            "A.7:   Oh, nice, I'm from Dallas, Texas.\n",
+            "B.8:   Oh, really?\n"
+        ],
+        "html": "A.5:   And where are you from?\nB.6:   Pennsylvania.\nA.7:   Oh, nice, I'm from Dallas, Texas.\nB.8:   Oh, really?\n",
+        "_input_hash": -531912787,
+        "_task_hash": 29540012,
+        "_view_id": "blocks",
+        "user_input": "discussing introduction - location",
+        "answer": "accept",
+        "_timestamp": 1676933452,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.9:   Yeah, so,\n",
+            "B.10:   Oh, that's neat.\n"
+        ],
+        "html": "A.9:   Yeah, so,\nB.10:   Oh, that's neat.\n",
+        "_input_hash": 1257846464,
+        "_task_hash": -1877438857,
+        "_view_id": "blocks",
+        "user_input": "discussing introduction - conclusion",
+        "answer": "accept",
+        "_timestamp": 1676933520,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.11:   Well, did you understand what this was for, you know, what it\n",
+            "B.12:   Uh, television shows?\n",
+            "A.13:   Yeah [laughter].\n",
+            "B.14:   Sure, that sounds good.\n",
+            "A.15:   Okay [noise].  I, I don't watch too many, but we can try it.\n",
+            "B.16:   Okay.\n",
+            "A.17:   Are you ready to start?\n",
+            "B.18:   Sure am.\n",
+            "A.19:   Okay, just a minute [beep].\n"
+        ],
+        "html": "A.11:   Well, did you understand what this was for, you know, what it\nB.12:   Uh, television shows?\nA.13:   Yeah [laughter].\nB.14:   Sure, that sounds good.\nA.15:   Okay [noise].  I, I don't watch too many, but we can try it.\nB.16:   Okay.\nA.17:   Are you ready to start?\nB.18:   Sure am.\nA.19:   Okay, just a minute [beep].\n",
+        "_input_hash": 238832100,
+        "_task_hash": 1012870606,
+        "_view_id": "blocks",
+        "user_input": "discussing task at hand - beginning",
+        "answer": "accept",
+        "_timestamp": 1676933625,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.20:   Okay, I guess we're recording now.\n",
+            "A.21:  Yeah, okay.\n"
+        ],
+        "html": "B.20:   Okay, I guess we're recording now.\nA.21:  Yeah, okay.\n",
+        "_input_hash": 1198827589,
+        "_task_hash": -1186309874,
+        "_view_id": "blocks",
+        "user_input": "discussing task at hand - conclusion",
+        "answer": "accept",
+        "_timestamp": 1676933633,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.22:   What are your favorite television shows?\n",
+            "A.23:   Well, I don't really watch too many T V shows other than, uh,\n",
+            "B.24:   Oh, really?\n"
+        ],
+        "html": "B.22:   What are your favorite television shows?\nA.23:   Well, I don't really watch too many T V shows other than, uh,\nB.24:   Oh, really?\n",
+        "_input_hash": -1088223248,
+        "_task_hash": -1105623587,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show - choice",
+        "answer": "accept",
+        "_timestamp": 1676933879,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.25:   And, uh, so if, if there's no one else around, you know, it's\n",
+            "B.26:   Oh, I love that show.\n",
+            "A.27:   Yeah, do you?  [Laughter].\n",
+            "B.28:   Yes, that is great.\n"
+        ],
+        "html": "A.25:   And, uh, so if, if there's no one else around, you know, it's\nB.26:   Oh, I love that show.\nA.27:   Yeah, do you?  [Laughter].\nB.28:   Yes, that is great.\n",
+        "_input_hash": 62836587,
+        "_task_hash": -443467381,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show 1 - review",
+        "answer": "accept",
+        "_timestamp": 1676933989,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.29:   Yeah, it's fun.  And then there's a new one that started out\n",
+            "B.30:   Oh, I heard they just canceled that.\n",
+            "A.31:   Oh, really?\n",
+            "B.32:   I read in today's paper they just canceled that show.\n"
+        ],
+        "html": "A.29:   Yeah, it's fun.  And then there's a new one that started out\nB.30:   Oh, I heard they just canceled that.\nA.31:   Oh, really?\nB.32:   I read in today's paper they just canceled that show.\n",
+        "_input_hash": 12152582,
+        "_task_hash": 993570874,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show 2 - cancellation",
+        "answer": "accept",
+        "_timestamp": 1676934008,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.33:   It is a real different one.  It's, uh, it's, it's different.\n",
+            "B.34:   [Laughter].\n"
+        ],
+        "html": "A.33:   It is a real different one.  It's, uh, it's, it's different.\nB.34:   [Laughter].\n",
+        "_input_hash": 1677287691,
+        "_task_hash": -251771427,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show 2 - review",
+        "answer": "accept",
+        "_timestamp": 1676934054,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.36:   Have you seen the show, it's, it's new this year, called HOME\n",
+            "A.37:   No, I haven't watched that.\n",
+            "B.38:   Oh, it's, it's really good.  It's, uh, I think it's on like\n",
+            "A.39:   Uh-huh.\n",
+            "B.40:   -- and it's set in post World War Two times and it's about how\n",
+            "A.41:   Oh, yeah.\n",
+            "B.42:   It's kind of like a s-, a nighttime soap opera type thing.\n",
+            "A.43:   Sounds neat.\n"
+        ],
+        "html": "B.36:   Have you seen the show, it's, it's new this year, called HOME\nA.37:   No, I haven't watched that.\nB.38:   Oh, it's, it's really good.  It's, uh, I think it's on like\nA.39:   Uh-huh.\nB.40:   -- and it's set in post World War Two times and it's about how\nA.41:   Oh, yeah.\nB.42:   It's kind of like a s-, a nighttime soap opera type thing.\nA.43:   Sounds neat.\n",
+        "_input_hash": 1283249478,
+        "_task_hash": 459503051,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show HOME - details",
+        "answer": "accept",
+        "_timestamp": 1676934079,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.44:   It is, it's a good, it's really well written.\n",
+            "A.45:   Yeah.  Is that on, what chan-, what station?\n",
+            "B.46:   [Lipsmack] Uh, I don't even know, to tell you the truth\n"
+        ],
+        "html": "B.44:   It is, it's a good, it's really well written.\nA.45:   Yeah.  Is that on, what chan-, what station?\nB.46:   [Lipsmack] Uh, I don't even know, to tell you the truth\n",
+        "_input_hash": 1259489453,
+        "_task_hash": -423936314,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show HOME - channel",
+        "answer": "accept",
+        "_timestamp": 1676934120,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.54:   I did watch soap operas, but I work full-time now and can't\n",
+            "A.55:   Yeah [laughter].\n"
+        ],
+        "html": "B.54:   I did watch soap operas, but I work full-time now and can't\nA.55:   Yeah [laughter].\n",
+        "_input_hash": 1339640245,
+        "_task_hash": -614510087,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show - soap operas - schedule conflict",
+        "answer": "accept",
+        "_timestamp": 1676934140,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.56:   Except when I'm home sick, and now when I watch them, I think,\n",
+            "A.57:   That's right [laughter].\n"
+        ],
+        "html": "B.56:   Except when I'm home sick, and now when I watch them, I think,\nA.57:   That's right [laughter].\n",
+        "_input_hash": -349234211,
+        "_task_hash": 1345657147,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show - soap opera - habits",
+        "answer": "accept",
+        "_timestamp": 1676934289,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.60:   So when I did watch them I was addicted to them every day.\n",
+            "A.61:   Uh-huh.\n",
+            "B.62:   But not anymore.\n"
+        ],
+        "html": "B.60:   So when I did watch them I was addicted to them every day.\nA.61:   Uh-huh.\nB.62:   But not anymore.\n",
+        "_input_hash": 1453267337,
+        "_task_hash": -391593348,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show soap operas - addiction",
+        "answer": "accept",
+        "_timestamp": 1676934310,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.63:   That can happen.  So do you know of any other shows in the\n",
+            "B.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\n",
+            "A.65:   Oh, that's always fun.\n",
+            "B.66:   Yes, I like that show.\n",
+            "A.67:   Yeah.\n"
+        ],
+        "html": "A.63:   That can happen.  So do you know of any other shows in the\nB.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\nA.65:   Oh, that's always fun.\nB.66:   Yes, I like that show.\nA.67:   Yeah.\n",
+        "_input_hash": -996924467,
+        "_task_hash": -97298281,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show GOLDEN GIRLS ",
+        "answer": "accept",
+        "_timestamp": 1676934365,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.68:   And if I can stay up late enough, I like to catch SATURDAY\n",
+            "A.69:   Oh, uh-huh.\n"
+        ],
+        "html": "B.68:   And if I can stay up late enough, I like to catch SATURDAY\nA.69:   Oh, uh-huh.\n",
+        "_input_hash": 276929863,
+        "_task_hash": -1955268800,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show SATURDAY",
+        "answer": "accept",
+        "_timestamp": 1676934379,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.70:   And right now we're watching a Penn State football game\n",
+            "A.71:   Oh, yeah.\n",
+            "B.72:   So [laughter],\n",
+            "A.73:   Uh-huh.\n"
+        ],
+        "html": "B.70:   And right now we're watching a Penn State football game\nA.71:   Oh, yeah.\nB.72:   So [laughter],\nA.73:   Uh-huh.\n",
+        "_input_hash": -1347283481,
+        "_task_hash": 1208807401,
+        "_view_id": "blocks",
+        "user_input": "discussing Sports show - football game - Penn State",
+        "answer": "accept",
+        "_timestamp": 1676934405,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.74:   It's exciting, we're winning, so that's really exciting.\n",
+            "A.75:   Yeah, well, I think, I also, course, like to catch the news\n",
+            "B.76:   Uh-huh.\n",
+            "A.77:   -- but, uh, it's a little tough because that's when I'm\n",
+            "B.78:   [Laughter].\n"
+        ],
+        "html": "B.74:   It's exciting, we're winning, so that's really exciting.\nA.75:   Yeah, well, I think, I also, course, like to catch the news\nB.76:   Uh-huh.\nA.77:   -- but, uh, it's a little tough because that's when I'm\nB.78:   [Laughter].\n",
+        "_input_hash": 2041513873,
+        "_task_hash": -320801488,
+        "_view_id": "blocks",
+        "user_input": "discussing News show - scheduling conflict",
+        "answer": "accept",
+        "_timestamp": 1676934467,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.79:   So, usually I don't get a whole lot of news watching in.\n",
+            "B.80:   Yes, we watch C N N in morning while we're getting ready --\n"
+        ],
+        "html": "A.79:   So, usually I don't get a whole lot of news watching in.\nB.80:   Yes, we watch C N N in morning while we're getting ready --\n",
+        "_input_hash": -1268984880,
+        "_task_hash": 1767608402,
+        "_view_id": "blocks",
+        "user_input": "discussing News show CNN",
+        "answer": "accept",
+        "_timestamp": 1676934481,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.1:   Hello?\n",
+            "B.2:   Hi.\n",
+            "A.3:   Hi, my name is Leslie.\n",
+            "B.4:   Hi, I'm Jennifer.\n",
+            "A.5:   And where are you from?\n",
+            "B.6:   Pennsylvania.\n",
+            "A.7:   Oh, nice, I'm from Dallas, Texas.\n",
+            "B.8:   Oh, really?\n",
+            "A.9:   Yeah, so,\n",
+            "B.10:   Oh, that's neat.\n"
+        ],
+        "html": "A.1:   Hello?\nB.2:   Hi.\nA.3:   Hi, my name is Leslie.\nB.4:   Hi, I'm Jennifer.\nA.5:   And where are you from?\nB.6:   Pennsylvania.\nA.7:   Oh, nice, I'm from Dallas, Texas.\nB.8:   Oh, really?\nA.9:   Yeah, so,\nB.10:   Oh, that's neat.\n",
+        "_input_hash": -1515720976,
+        "_task_hash": -1635962112,
+        "_view_id": "blocks",
+        "user_input": "discussing introduction ",
+        "answer": "accept",
+        "_timestamp": 1676934599,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.11:   Well, did you understand what this was for, you know, what it\n",
+            "B.12:   Uh, television shows?\n",
+            "A.13:   Yeah [laughter].\n",
+            "B.14:   Sure, that sounds good.\n",
+            "A.15:   Okay [noise].  I, I don't watch too many, but we can try it.\n",
+            "B.16:   Okay.\n",
+            "A.17:   Are you ready to start?\n",
+            "B.18:   Sure am.\n",
+            "A.19:   Okay, just a minute [beep].\n",
+            "B.20:   Okay, I guess we're recording now.\n",
+            "A.21:  Yeah, okay.\n",
+            "B.22:   What are your favorite television shows?\n",
+            "A.23:   Well, I don't really watch too many T V shows other than, uh,\n",
+            "B.24:   Oh, really?\n",
+            "A.25:   And, uh, so if, if there's no one else around, you know, it's\n",
+            "B.26:   Oh, I love that show.\n",
+            "A.27:   Yeah, do you?  [Laughter].\n",
+            "B.28:   Yes, that is great.\n",
+            "A.29:   Yeah, it's fun.  And then there's a new one that started out\n",
+            "B.30:   Oh, I heard they just canceled that.\n",
+            "A.31:   Oh, really?\n",
+            "B.32:   I read in today's paper they just canceled that show.\n",
+            "A.33:   It is a real different one.  It's, uh, it's, it's different.\n",
+            "B.34:   [Laughter].\n"
+        ],
+        "html": "A.11:   Well, did you understand what this was for, you know, what it\nB.12:   Uh, television shows?\nA.13:   Yeah [laughter].\nB.14:   Sure, that sounds good.\nA.15:   Okay [noise].  I, I don't watch too many, but we can try it.\nB.16:   Okay.\nA.17:   Are you ready to start?\nB.18:   Sure am.\nA.19:   Okay, just a minute [beep].\nB.20:   Okay, I guess we're recording now.\nA.21:  Yeah, okay.\nB.22:   What are your favorite television shows?\nA.23:   Well, I don't really watch too many T V shows other than, uh,\nB.24:   Oh, really?\nA.25:   And, uh, so if, if there's no one else around, you know, it's\nB.26:   Oh, I love that show.\nA.27:   Yeah, do you?  [Laughter].\nB.28:   Yes, that is great.\nA.29:   Yeah, it's fun.  And then there's a new one that started out\nB.30:   Oh, I heard they just canceled that.\nA.31:   Oh, really?\nB.32:   I read in today's paper they just canceled that show.\nA.33:   It is a real different one.  It's, uh, it's, it's different.\nB.34:   [Laughter].\n",
+        "_input_hash": 1070209695,
+        "_task_hash": 772568220,
+        "_view_id": "blocks",
+        "user_input": "discussing task, TV show 1 and 2 ",
+        "answer": "accept",
+        "_timestamp": 1676934629,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.35:   But,\n",
+            "B.36:   Have you seen the show, it's, it's new this year, called HOME\n",
+            "A.37:   No, I haven't watched that.\n",
+            "B.38:   Oh, it's, it's really good.  It's, uh, I think it's on like\n",
+            "A.39:   Uh-huh.\n",
+            "B.40:   -- and it's set in post World War Two times and it's about how\n",
+            "A.41:   Oh, yeah.\n",
+            "B.42:   It's kind of like a s-, a nighttime soap opera type thing.\n",
+            "A.43:   Sounds neat.\n",
+            "B.44:   It is, it's a good, it's really well written.\n",
+            "A.45:   Yeah.  Is that on, what chan-, what station?\n",
+            "B.46:   [Lipsmack] Uh, I don't even know, to tell you the truth\n",
+            "A.47:   Oh, okay.  What other shows do you like?\n",
+            "B.48:   Uh, I prefer OPRAH WINFREY --\n",
+            "A.49:   Oh, yeah.\n",
+            "B.50:   -- to DONAHUE [laughter].\n"
+        ],
+        "html": "A.35:   But,\nB.36:   Have you seen the show, it's, it's new this year, called HOME\nA.37:   No, I haven't watched that.\nB.38:   Oh, it's, it's really good.  It's, uh, I think it's on like\nA.39:   Uh-huh.\nB.40:   -- and it's set in post World War Two times and it's about how\nA.41:   Oh, yeah.\nB.42:   It's kind of like a s-, a nighttime soap opera type thing.\nA.43:   Sounds neat.\nB.44:   It is, it's a good, it's really well written.\nA.45:   Yeah.  Is that on, what chan-, what station?\nB.46:   [Lipsmack] Uh, I don't even know, to tell you the truth\nA.47:   Oh, okay.  What other shows do you like?\nB.48:   Uh, I prefer OPRAH WINFREY --\nA.49:   Oh, yeah.\nB.50:   -- to DONAHUE [laughter].\n",
+        "_input_hash": 1296104591,
+        "_task_hash": -318126115,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show HOME and OPRAH",
+        "answer": "accept",
+        "_timestamp": 1676934652,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.51:   Well, she comes on later and I usually have kids around so I\n",
+            "B.52:   Oh.\n",
+            "A.53:   -- watching that one is the only problem I have with it, I\n",
+            "B.54:   I did watch soap operas, but I work full-time now and can't\n",
+            "A.55:   Yeah [laughter].\n",
+            "B.56:   Except when I'm home sick, and now when I watch them, I think,\n",
+            "A.57:   That's right [laughter].\n",
+            "B.58:   They're stupid [laughter].\n",
+            "A.59:   Yeah.\n",
+            "B.60:   So when I did watch them I was addicted to them every day.\n",
+            "A.61:   Uh-huh.\n",
+            "B.62:   But not anymore.\n",
+            "A.63:   That can happen.  So do you know of any other shows in the\n",
+            "B.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\n",
+            "A.65:   Oh, that's always fun.\n",
+            "B.66:   Yes, I like that show.\n",
+            "A.67:   Yeah.\n",
+            "B.68:   And if I can stay up late enough, I like to catch SATURDAY\n",
+            "A.69:   Oh, uh-huh.\n"
+        ],
+        "html": "A.51:   Well, she comes on later and I usually have kids around so I\nB.52:   Oh.\nA.53:   -- watching that one is the only problem I have with it, I\nB.54:   I did watch soap operas, but I work full-time now and can't\nA.55:   Yeah [laughter].\nB.56:   Except when I'm home sick, and now when I watch them, I think,\nA.57:   That's right [laughter].\nB.58:   They're stupid [laughter].\nA.59:   Yeah.\nB.60:   So when I did watch them I was addicted to them every day.\nA.61:   Uh-huh.\nB.62:   But not anymore.\nA.63:   That can happen.  So do you know of any other shows in the\nB.64:   Oh,  uh, tonight I'm looking forward to seeing GOLDEN GIRLS.\nA.65:   Oh, that's always fun.\nB.66:   Yes, I like that show.\nA.67:   Yeah.\nB.68:   And if I can stay up late enough, I like to catch SATURDAY\nA.69:   Oh, uh-huh.\n",
+        "_input_hash": -1497518933,
+        "_task_hash": -2128411988,
+        "_view_id": "blocks",
+        "user_input": "discussing TV show soap operas, GOLDEN GIRLS and SATURDAY",
+        "answer": "accept",
+        "_timestamp": 1676934728,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.70:   And right now we're watching a Penn State football game\n",
+            "A.71:   Oh, yeah.\n",
+            "B.72:   So [laughter],\n",
+            "A.73:   Uh-huh.\n",
+            "B.74:   It's exciting, we're winning, so that's really exciting.\n"
+        ],
+        "html": "B.70:   And right now we're watching a Penn State football game\nA.71:   Oh, yeah.\nB.72:   So [laughter],\nA.73:   Uh-huh.\nB.74:   It's exciting, we're winning, so that's really exciting.\n",
+        "_input_hash": 912463756,
+        "_task_hash": 1242809544,
+        "_view_id": "blocks",
+        "user_input": "discussing Sports show - football game - Penn State",
+        "answer": "accept",
+        "_timestamp": 1676934771,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.75:   Yeah, well, I think, I also, course, like to catch the news\n",
+            "B.76:   Uh-huh.\n"
+        ],
+        "html": "A.75:   Yeah, well, I think, I also, course, like to catch the news\nB.76:   Uh-huh.\n",
+        "_input_hash": 2072389679,
+        "_task_hash": -1304516390,
+        "_view_id": "blocks",
+        "user_input": "discussing News show - preference",
+        "answer": "accept",
+        "_timestamp": 1676934845,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.77:   -- but, uh, it's a little tough because that's when I'm\n",
+            "B.78:   [Laughter].\n"
+        ],
+        "html": "A.77:   -- but, uh, it's a little tough because that's when I'm\nB.78:   [Laughter].\n",
+        "_input_hash": -646752684,
+        "_task_hash": 506977083,
+        "_view_id": "blocks",
+        "user_input": "discussing News show - scheduling conflict ",
+        "answer": "accept",
+        "_timestamp": 1676934863,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "A.79:   So, usually I don't get a whole lot of news watching in.\n",
+            "B.80:   Yes, we watch C N N in morning while we're getting ready --\n",
+            "A.81:   Uh-huh.\n",
+            "B.82:   -- for the day and eating breakfast.  We'll catch our news\n",
+            "A.83:   Yeah, yeah.  So what have you seen interesting on OPRAH\n",
+            "B.84:   Lately, I haven't been catching it because of my work\n",
+            "A.85:   Uh-huh.\n",
+            "B.86:   Uh, {pause} I can't remember the last time I saw it.  It's\n",
+            "@A.87:   Yeah, [lipsmack] well, I don't know if we've talked our\n",
+            "B.88:   [Laughter] I don't know, sometimes they come on and, and say.\n",
+            "A.89:   Oh, that's right.\n",
+            "B.90:   Well, today on C N N they were talking about something like\n",
+            "A.91:   Um, yeah.\n",
+            "B.92:   It was really interesting.\n",
+            "A.93:   It is interesting.  So,\n"
+        ],
+        "html": "A.79:   So, usually I don't get a whole lot of news watching in.\nB.80:   Yes, we watch C N N in morning while we're getting ready --\nA.81:   Uh-huh.\nB.82:   -- for the day and eating breakfast.  We'll catch our news\nA.83:   Yeah, yeah.  So what have you seen interesting on OPRAH\nB.84:   Lately, I haven't been catching it because of my work\nA.85:   Uh-huh.\nB.86:   Uh, {pause} I can't remember the last time I saw it.  It's\n@A.87:   Yeah, [lipsmack] well, I don't know if we've talked our\nB.88:   [Laughter] I don't know, sometimes they come on and, and say.\nA.89:   Oh, that's right.\nB.90:   Well, today on C N N they were talking about something like\nA.91:   Um, yeah.\nB.92:   It was really interesting.\nA.93:   It is interesting.  So,\n",
+        "_input_hash": -1059220378,
+        "_task_hash": -2019265710,
+        "_view_id": "blocks",
+        "user_input": "discussing News show CNN and TV show OPRAH",
+        "answer": "accept",
+        "_timestamp": 1676934910,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    },
+    {
+        "text": [
+            "B.94:   Do you work for Texas Instruments?\n",
+            "A.95:   No, no, just, uh, doing this as a fund-raiser for our church.\n",
+            "B.96:   Oh, that's nice.\n",
+            "A.97:   Yeah, so it kind of makes it easy, you know, to do a little\n"
+        ],
+        "html": "B.94:   Do you work for Texas Instruments?\nA.95:   No, no, just, uh, doing this as a fund-raiser for our church.\nB.96:   Oh, that's nice.\nA.97:   Yeah, so it kind of makes it easy, you know, to do a little\n",
+        "_input_hash": -1423526813,
+        "_task_hash": -566178517,
+        "_view_id": "blocks",
+        "user_input": "discussing personal life - work",
+        "answer": "accept",
+        "_timestamp": 1676934922,
+        "_annotator_id": "group19-group19",
+        "_session_id": "group19-group19"
+    }
+]

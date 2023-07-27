@@ -1,0 +1,81 @@
+sentence    structure   direct_object   indirect_object
+The driver gave the bracelet to the grandpa	DO	bracelet	grandpa
+The driver gave the grandpa the bracelet	PO	bracelet	grandpa
+The veteran gave the flag to the uncle	DO	flag	uncle
+The veteran gave the uncle the flag	PO	flag	uncle
+The guy gave the cotton to the soldier	DO	cotton	soldier
+The guy gave the soldier the cotton	PO	cotton	soldier
+The astronaut gave the mustard to the boy	DO	mustard	boy
+The astronaut gave the boy the mustard	PO	mustard	boy
+The referee gave the clarinet to the commander	DO	clarinet	commander
+The referee gave the commander the clarinet	PO	clarinet	commander
+The teenager gave the pliers to the human	DO	pliers	human
+The teenager gave the human the pliers	PO	pliers	human
+The boy gave the loaf to the man	DO	loaf	man
+The boy gave the man the loaf	PO	loaf	man
+The professor gave the mustard to the man	DO	mustard	man
+The professor gave the man the mustard	PO	mustard	man
+The surgeon gave the decoration to the grandpa	DO	decoration	grandpa
+The surgeon gave the grandpa the decoration	PO	decoration	grandpa
+The sheriff gave the map to the referee	DO	map	referee
+The sheriff gave the referee the map	PO	map	referee
+The uncle gave the loaf to the citizen	DO	loaf	citizen
+The uncle gave the citizen the loaf	PO	loaf	citizen
+The student gave the seat to the girlfriend	DO	seat	girlfriend
+The student gave the girlfriend the seat	PO	seat	girlfriend
+The contractor gave the poison to the detective	DO	poison	detective
+The contractor gave the detective the poison	PO	poison	detective
+The salesman gave the loaf to the grandpa	DO	loaf	grandpa
+The salesman gave the grandpa the loaf	PO	loaf	grandpa
+The banker gave the rock to the soldier	DO	rock	soldier
+The banker gave the soldier the rock	PO	rock	soldier
+The engineer gave the sky to the sheriff	DO	sky	sheriff
+The engineer gave the sheriff the sky	PO	sky	sheriff
+The girlfriend gave the sky to the person	DO	sky	person
+The girlfriend gave the person the sky	PO	sky	person
+The mother gave the map to the teenager	DO	map	teenager
+The mother gave the teenager the map	PO	map	teenager
+The preacher gave the flag to the swimmer	DO	flag	swimmer
+The preacher gave the swimmer the flag	PO	flag	swimmer
+The human gave the triangle to the bride	DO	triangle	bride
+The human gave the bride the triangle	PO	triangle	bride
+The commander gave the box to the sheriff	DO	box	sheriff
+The commander gave the sheriff the box	PO	box	sheriff
+The fireman gave the triangle to the astronaut	DO	triangle	astronaut
+The fireman gave the astronaut the triangle	PO	triangle	astronaut
+The sailor gave the pliers to the student	DO	pliers	student
+The sailor gave the student the pliers	PO	pliers	student
+The chief gave the fog to the fireman	DO	fog	fireman
+The chief gave the fireman the fog	PO	fog	fireman
+The girl gave the jug to the surgeon	DO	jug	surgeon
+The girl gave the surgeon the jug	PO	jug	surgeon
+The person gave the clarinet to the man	DO	clarinet	man
+The person gave the man the clarinet	PO	clarinet	man
+The boyfriend gave the bracelet to the banker	DO	bracelet	banker
+The boyfriend gave the banker the bracelet	PO	bracelet	banker
+The technician gave the toast to the principal	DO	toast	principal
+The technician gave the principal the toast	PO	toast	principal
+The grandpa gave the whiskey to the girlfriend	DO	whiskey	girlfriend
+The grandpa gave the girlfriend the whiskey	PO	whiskey	girlfriend
+The sergeant gave the gravel to the commander	DO	gravel	commander
+The sergeant gave the commander the gravel	PO	gravel	commander
+The bride gave the lever to the fireman	DO	lever	fireman
+The bride gave the fireman the lever	PO	lever	fireman
+The soldier gave the sky to the detective	DO	sky	detective
+The soldier gave the detective the sky	PO	sky	detective
+The gal gave the toast to the human	DO	toast	human
+The gal gave the human the toast	PO	toast	human
+The swimmer gave the loaf to the principal	DO	loaf	principal
+The swimmer gave the principal the loaf	PO	loaf	principal
+The principal gave the stone to the boy	DO	stone	boy
+The principal gave the boy the stone	PO	stone	boy
+The officer gave the region to the engineer	DO	region	engineer
+The officer gave the engineer the region	PO	region	engineer
+The citizen gave the region to the surgeon	DO	region	surgeon
+The citizen gave the surgeon the region	PO	region	surgeon
+The detective gave the razor to the surgeon	DO	razor	surgeon
+The detective gave the surgeon the razor	PO	razor	surgeon
+The man gave the spade to the technician	DO	spade	technician
+The man gave the technician the spade	PO	spade	technician
+The sister gave the poison to the engineer	DO	poison	engineer
+The sister gave the engineer the poison	PO	poison	engineer
